@@ -4,7 +4,7 @@ These rosinstall files are meant to be used in a single `catkin build` workspace
 Example usage:
 
 ```sh
-mkdir ws
+mkdir -p ws/src
 cd ws
 catkin init
 cd src
