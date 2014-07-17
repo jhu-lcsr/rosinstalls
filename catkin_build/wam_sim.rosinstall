@@ -4,7 +4,6 @@
 - git: {local-name: catkin, uri: 'git@github.com:jbohren-forks/catkin.git', version: dont-overwrite-marker-on-install}
 - git: {local-name: conman, uri: 'git@github.com:jbohren/conman.git'}
 - git: {local-name: gazebo_ros_pkgs, uri: 'git@github.com:ros-simulation/gazebo_ros_pkgs.git'}
-- git: {local-name: gsacm, uri: 'git@github.com:ros-drivers/gscam.git'}
 - git: {local-name: lcsr_barrett, uri: 'git@github.com:jhu-lcsr/lcsr_barrett.git'}
 - git: {local-name: lcsr_camera_models, uri: 'git@github.com:jhu-lcsr/lcsr_camera_models.git'}
 - git: {local-name: lcsr_controllers, uri: 'git@github.com:jhu-lcsr/lcsr_controllers.git'}
