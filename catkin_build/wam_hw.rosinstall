@@ -20,3 +20,4 @@
 - git: {local-name: orocos_toolchain, uri: 'git@github.com:jhu-lcsr-forks/orocos_toolchain.git'}
 - git: {local-name: common_msgs, uri: 'git@github.com:jhu-lcsr-forks/common_msgs.git', version: inertia-msg}
 - git: {local-name: xdot, uri: 'git@github.com:jbohren/xdot.git'}
+- git: {local-name: rqt_dot, uri: 'git@github.com:jbohren/rqt_dot.git'}
