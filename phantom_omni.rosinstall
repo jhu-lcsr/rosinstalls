@@ -1,0 +1,10 @@
+- git: {local-name: orocos_kinematics_dynamics, uri: 'git@github.com:jhu-lcsr-forks/orocos_kinematics_dynamics.git'}
+- git: {local-name: orocos_toolchain, uri: 'git@github.com:jhu-lcsr-forks/orocos_toolchain.git'}
+- git: {local-name: rtt_geometry, uri: 'git@github.com:jhu-lcsr-forks/rtt_geometry.git'}
+- git: {local-name: cmake_modules, uri: 'git@github.com:jhu-lcsr-forks/cmake_modules.git'}
+- git: {local-name: rtt_ros_integration, uri: 'git@github.com:jhu-lcsr-forks/rtt_ros_integration.git'}
+- git: {local-name: rtt_ros_examples, uri: 'git@github.com:jhu-lcsr/rtt_ros_examples.git'}
+- git: {local-name: lcsr_ros_orocos_tools, uri: 'git@github.com:jhu-lcsr/lcsr_ros_orocos_tools.git'}
+- git: {local-name: lcsr_telemanip, uri: 'git@github.com:jhu-lcsr/lcsr_telemanip.git'}
+- git: {local-name: cartesian_trajectory_msgs, uri: 'git@github.com:jhu-lcsr/cartesian_trajectory_msgs.git'}
+- git: {local-name: orocos_phantom, uri: 'git@github.com:jhu-lcsr/orocos_phantom.git'}

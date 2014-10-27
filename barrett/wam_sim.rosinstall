@@ -1,0 +1,2 @@
+- git: {local-name: gazebo_ros_pkgs, uri: 'git@github.com:ros-simulation/gazebo_ros_pkgs.git'}
+- git: {local-name: rtt_gazebo, uri: 'git@github.com:jhu-lcsr/rtt_gazebo.git'}
