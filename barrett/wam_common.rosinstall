@@ -13,7 +13,7 @@
 - git: {version: 0.1.0, local-name: rtt_ros_control, uri: 'git@github.com:jhu-lcsr/rtt_ros_control.git'}
 - git: {version: 0.1.0, local-name: rtt_ros_examples, uri: 'git@github.com:jhu-lcsr/rtt_ros_examples.git'}
 - git: {local-name: rtt_ros_integration, uri: 'git@github.com:jhu-lcsr-forks/rtt_ros_integration.git', version: hydro-devel}
-- git: {version: 0.1.0, local-name: orocos_barrett, uri: 'git@github.com:jhu-lcsr/orocos_barrett.git'}
+- git: {version: 0.1.1, local-name: orocos_barrett, uri: 'git@github.com:jhu-lcsr/orocos_barrett.git'}
 - git: {version: hydro-devel, local-name: orocos_kinematics_dynamics, uri: 'git@github.com:jhu-lcsr-forks/orocos_kinematics_dynamics.git'}
 - git: {version: master, local-name: orocos_toolchain, uri: 'git@github.com:jhu-lcsr-forks/orocos_toolchain.git'}
 - git: {local-name: common_msgs, uri: 'git@github.com:jhu-lcsr-forks/common_msgs.git', version: inertia-msg}
