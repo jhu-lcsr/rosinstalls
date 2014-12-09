@@ -1,6 +1,6 @@
 - git: {local-name: catkin, uri: 'git@github.com:jbohren-forks/catkin.git', version: dont-overwrite-marker-on-install}
 - git: {version: 0.5.0, local-name: barrett_model, uri: 'git@github.com:jhu-lcsr/barrett_model.git'}
-- git: {version: 0.3.0, local-name: barrett_moveit, uri: 'git@github.com:jhu-lcsr/barrett_moveit.git'}
+- git: {version: 0.3.1, local-name: barrett_moveit, uri: 'git@github.com:jhu-lcsr/barrett_moveit.git'}
 - git: {version: 0.1.0, local-name: conman, uri: 'git@github.com:jbohren/conman.git'}
 - git: {version: 0.2.0, local-name: cartesian_trajectory_msgs, uri: 'git@github.com:jhu-lcsr/cartesian_trajectory_msgs.git'}
 - git: {version: 0.8.0, local-name: lcsr_barrett, uri: 'git@github.com:jhu-lcsr/lcsr_barrett.git'}
