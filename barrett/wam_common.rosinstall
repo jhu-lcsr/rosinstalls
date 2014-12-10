@@ -5,7 +5,7 @@
 - git: {version: 0.2.0, local-name: cartesian_trajectory_msgs, uri: 'git@github.com:jhu-lcsr/cartesian_trajectory_msgs.git'}
 - git: {version: 0.8.0, local-name: lcsr_barrett, uri: 'git@github.com:jhu-lcsr/lcsr_barrett.git'}
 - git: {version: 0.2.0, local-name: lcsr_camera_models, uri: 'git@github.com:jhu-lcsr/lcsr_camera_models.git'}
-- git: {version: 0.7.0, local-name: lcsr_controllers, uri: 'git@github.com:jhu-lcsr/lcsr_controllers.git'}
+- git: {version: 0.7.1, local-name: lcsr_controllers, uri: 'git@github.com:jhu-lcsr/lcsr_controllers.git'}
 - git: {version: 0.1.0, local-name: lcsr_robot_models, uri: 'git@github.com:jhu-lcsr/lcsr_robot_models.git'}
 - git: {version: 0.2.0, local-name: lcsr_ros_orocos_tools, uri: 'git@github.com:jhu-lcsr/lcsr_ros_orocos_tools.git'}
 - git: {version: 0.2.0, local-name: lcsr_telemanip, uri: 'git@github.com:jhu-lcsr/lcsr_telemanip.git'}
